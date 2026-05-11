@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luxe-digital-lab.vercel.app/sitemap.xml
